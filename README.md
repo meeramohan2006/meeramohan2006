@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Meera Mohan! 👋
 
-<!--
-**meeramohan2006/meeramohan2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on Python and AI, currently building projects for GSoC 2026.
 
-Here are some ideas to get you started:
+### 🛠 My Tech Stack
+* **Language:** Python
+* **Projects:** AI Crowd Monitoring, Collaborative Team Building
+* **Community:** TinkerHub-CEAL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Work
+* [Crowd Monitoring App](https://github.com/meeramohan2006/crowd-monitoring-app) - AI-based monitoring solution.
+* [Team 5 Project](https://github.com/TinkerHub-CEAL/TEAM-5-PROJECT-BUILDING) - Collaborative development work.
+
+### 📊 My GitHub Stats
+![Meera's GitHub stats](https://github-readme-stats.vercel.app/api?username=meeramohan2006&show_icons=true&theme=dark)
