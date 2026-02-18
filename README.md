@@ -1,6 +1,6 @@
 # Hi, I'm Meera Mohan! 👋
 
-I'm a developer focused on Python and AI, currently building projects for GSoC 2026.
+I'm a developer focused on Python and AI, currently building projects for GSoC 2027.
 
 ### 🛠 My Tech Stack
 * **Language:** Python
